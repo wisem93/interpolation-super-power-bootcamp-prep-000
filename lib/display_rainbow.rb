@@ -4,4 +4,4 @@ def display_rainbow
   puts "im working "
 end
 
-display_rainbow(colors)
+display_rainbow
